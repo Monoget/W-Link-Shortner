@@ -1,0 +1,5 @@
+ErrorDocument 404 /index.php
+
+RewriteEngine on  
+  
+RewriteRule ^(?=.*[a-zA-Z\d].*)[a-zA-Z\d!@#$%&*]{7,}$  index.php [NC,L]
