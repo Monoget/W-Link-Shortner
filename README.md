@@ -11,3 +11,4 @@ For git bash use this command in your server folder `git clone https://github.co
 ### File name: index.php
 1. change this variable link as per your domain `$site_link`. For example `$site_link=http://localhost/Link-Shortner/`
 
+## Now enjoy
